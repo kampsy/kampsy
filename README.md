@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm currently working on [kampsy-ui](https://ui.kampsy.com), a Svelte 5 component library inspired by Vercel's Geist.
+
 <!--
 **kampsy/kampsy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
