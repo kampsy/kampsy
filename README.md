@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm working on [kampsy-ui](https://ui.kampsy.com), a Svelte 5 UI component library inspired by Vercel's Geist Design System.
+I'm working on [kampsy-ui](https://ui.kampsy.xyz), a Svelte 5 UI component library inspired by Vercel's Geist Design System.
 
 ![Kampsy's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=kampsy&show_icons=true&count_private=true&theme=gotham)
 
